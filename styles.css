@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+*{
+	margin: 0px;
+	padding: 0px;
+}
+div{
+	background-color: lightblue;
+	border: 15px solid blue;
+	padding: 50px;
+	margin: 20px;
+	width: 300px;
+}
+div p{
+	padding: 20px 10px;
+	box-sizing: border-box;
+}
